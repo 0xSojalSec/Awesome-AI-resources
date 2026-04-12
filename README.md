@@ -422,6 +422,8 @@ Tools for analyzing, searching, and understanding codebases.
 ## Domain-Specific Tools
 
 Specialized AI tools for specific development domains and tasks.
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin providing SEO and Google Ads skills. Meta tag rewrites, schema markup generation, keyword bid adjustments, and CMS content pushes
+
 
 ### Git & Version Control
 - [ai-commit-tool](https://github.com/awkwardlysocial/ai-commit-tool) - A CLI tool that generates AI-based git commit messages
@@ -548,6 +550,3 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [Claude Skills](https://github.com/Microck/ordinary-claude-skills) - a massive local repository of official and community-built claude skills, organized by category.
 - [Corsair](https://github.com/corsairdev/corsair) - Equip your coding agents to build faster with natural language queries and mutations.
 - [Dev Workspace](https://github.com/dilberryhoundog/dev-workspace) - An advanced context management system for Claude Code.
-
-
-
