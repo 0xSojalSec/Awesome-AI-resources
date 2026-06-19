@@ -488,6 +488,7 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 
 - [anthropics/skills](https://github.com/anthropics/skills) - Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks.
 - [Agent Skills](https://github.com/agentskills/agentskills) - a simple, open format for giving agents new capabilities and expertise.
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 - [Gemini CLI Skill for Claude Code](https://github.com/forayconsulting/gemini_cli_skill) - A Claude Code skill that enables effective use of Google's Gemini CLI as a powerful auxiliary tool.
 - [AI-Setup](https://github.com/ctavolazzi/ai-setup) - A toolkit for setting up AI-assisted development environments and managing work efforts
 - [AiDE](https://github.com/FixingPixels/AiDE) - A structured approach to developing projects with AI assistance
