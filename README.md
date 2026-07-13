@@ -466,6 +466,7 @@ Specialized AI tools for specific development domains and tasks.
 Tools for generating synthetic datasets and data for AI-driven development workflows.
 
 - [DeepFabric](https://github.com/lukehinds/deepfabric) - Generate synthetic datasets for fine-tuning models, structured output and more efficient tool calling, along with agent and model eval data
+- [Future AGI](https://github.com/future-agi/future-agi) - Simulate multi-turn agent scenarios against synthetic personas to generate evaluation datasets, scored with 70+ eval metrics and LLM-as-judge
 
 ## Learning Resources
 
