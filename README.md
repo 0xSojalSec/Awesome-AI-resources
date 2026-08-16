@@ -213,6 +213,7 @@ Tools for generating code, automating development tasks, and creating project te
 AI-powered tools for testing, quality assurance, security analysis, and code coverage.
 
 - [qodo-cover](https://github.com/qodo-ai/qodo-cover) - An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
+- [Agent QA](https://github.com/vostride/agent-qa) - The self-improving QA agent for software teams, with natural-language web/mobile tests, persistent test memory, and self-healing flows.
 - [shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
 - [mutahunter](https://github.com/codeintegrity-ai/mutahunter) - Open Source, Language Agnostic Automatic Test Generation + LLM Mutation Testing
 - [testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules) - Hercules is the world's first open-source testing agent, built to handle the toughest testing tasks so you don't have to
@@ -548,6 +549,5 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [Claude Skills](https://github.com/Microck/ordinary-claude-skills) - a massive local repository of official and community-built claude skills, organized by category.
 - [Corsair](https://github.com/corsairdev/corsair) - Equip your coding agents to build faster with natural language queries and mutations.
 - [Dev Workspace](https://github.com/dilberryhoundog/dev-workspace) - An advanced context management system for Claude Code.
-
 
 
