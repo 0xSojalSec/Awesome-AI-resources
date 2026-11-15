@@ -289,6 +289,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [Claude Tools MCP Server](https://github.com/brwse/claude-tools-mcp) - An MCP (Model Context Protocol) server that exposes Claude Code's file and shell manipulation tools over HTTP, allowing any MCP client to use these tools remotely.
 - [Code-Mode Library](https://github.com/universal-tool-calling-protocol/code-mode) - 🔌 Plug-and-play library to enable agents to call MCP and UTCP tools via code execution.
 - [MCP Code Execution Server](https://github.com/elusznik/mcp-server-code-execution-mode) - An MCP server that executes Python code in isolated rootless containers with optional MCP server proxying.
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote Streamable HTTP MCP server for searching independent live music venues, drive-time touring routes, and booking contacts.
 
 ## Code Review & Collaboration
 
